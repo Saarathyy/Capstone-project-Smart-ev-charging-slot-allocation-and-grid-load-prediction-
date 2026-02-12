@@ -1,0 +1,1 @@
+# Capstone-project-Smart-ev-charging-slot-allocation-and-grid-load-prediction-
