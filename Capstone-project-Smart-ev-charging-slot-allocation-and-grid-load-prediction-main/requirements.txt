@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+OX0WnYJVUbroXl0TK0MQEY7raD0fHGnLgBl-Ez-Nuos
